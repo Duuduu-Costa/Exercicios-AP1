@@ -11,7 +11,8 @@ Código que implementa um sistema de avaliação de notas em Java utilizando a c
 ## 4. Calculadora de aposentadoria:
 Código que implementa uma calculadora de aposentadoria em Java. Ele recebe a idade, sexo e anos de contribuição de uma pessoa e determina se ela já pode se aposentar ou quantos anos faltam para isso, de acordo com as regras de aposentadoria por idade ou tempo de contribuição específicas para cada sexo (65 anos de idade e 35 anos de contribuição para homens, 62 anos de idade e 30 anos de contribuição para mulheres).
 
-## 5.
+## 5. Circuito de resistências:
+O código Java define uma classe CircuitoResistencias que calcula a resistência equivalente de quatro resistências em série, além de identificar e retornar a maior e a menor resistência entre elas, usando métodos específicos para cada cálculo.
 
 ## 6.
 
