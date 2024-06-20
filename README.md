@@ -17,5 +17,6 @@ Código que define uma classe CircuitoResistencias que calcula a resistência eq
 ## 6. Sistema de login:
 O código implementa um sistema de login em Java. Ele solicita ao usuário que insira um nome de usuário e senha, comparando-os com valores pré-definidos ("java8"). O usuário tem três tentativas para acertar o login. Se o usuário acerta, uma mensagem de sucesso é exibida; caso contrário, mensagens de erro são mostradas a cada tentativa falha até o limite de tentativas ser atingido.
 
-## 7.
+## 7. Gerador de tabuada:
+O código solicita que o usuário insira um número. Em seguida, ele gera e exibe a tabuada desse número de 1 a 10 utilizando um loop for. Cada linha da tabuada é impressa no formato "numero x i = resultado".
 
