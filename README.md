@@ -1,7 +1,7 @@
 # Exercicios-AP1
 
 ## 1. Calculadora de desconto: 
-Código em Java que calcula o valor do desconto e o preço final de um produto baseado em uma porcentagem de desconto fornecida pelo usuário. Utilizando a classe Scanner, ele solicita ao usuário o valor do produto e a porcentagem de desconto. Com esses dados, o programa chama o método calcularDesconto para determinar o valor do desconto, subtrai esse valor do preço original para obter o preço final e, em seguida, exibe ambos os valores formatados para duas casas decimais.
+Código que calcula o valor do desconto e o preço final de um produto baseado em uma porcentagem de desconto fornecida pelo usuário. Utilizando a classe Scanner, ele solicita ao usuário o valor do produto e a porcentagem de desconto. Com esses dados, o programa chama o método calcularDesconto para determinar o valor do desconto, subtrai esse valor do preço original para obter o preço final e, em seguida, exibe ambos os valores formatados para duas casas decimais.
 
 ## 2. Calculadora de ITBI:
 
@@ -12,7 +12,7 @@ Código que implementa um sistema de avaliação de notas em Java utilizando a c
 Código que implementa uma calculadora de aposentadoria em Java. Ele recebe a idade, sexo e anos de contribuição de uma pessoa e determina se ela já pode se aposentar ou quantos anos faltam para isso, de acordo com as regras de aposentadoria por idade ou tempo de contribuição específicas para cada sexo (65 anos de idade e 35 anos de contribuição para homens, 62 anos de idade e 30 anos de contribuição para mulheres).
 
 ## 5. Circuito de resistências:
-O código Java define uma classe CircuitoResistencias que calcula a resistência equivalente de quatro resistências em série, além de identificar e retornar a maior e a menor resistência entre elas, usando métodos específicos para cada cálculo.
+Código que define uma classe CircuitoResistencias que calcula a resistência equivalente de quatro resistências em série, além de identificar e retornar a maior e a menor resistência entre elas, usando métodos específicos para cada cálculo.
 
 ## 6.
 
