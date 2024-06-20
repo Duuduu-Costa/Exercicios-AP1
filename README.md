@@ -1,6 +1,7 @@
 # Exercicios-AP1
 
-## 1.
+## 1. CalculadoraDeDesconto: 
+É um código em Java que calcula o valor do desconto e o preço final de um produto baseado em uma porcentagem de desconto fornecida pelo usuário. Utilizando a classe Scanner, ele solicita ao usuário o valor do produto e a porcentagem de desconto. Com esses dados, o programa chama o método calcularDesconto para determinar o valor do desconto, subtrai esse valor do preço original para obter o preço final e, em seguida, exibe ambos os valores formatados para duas casas decimais.
 
 ## 2.
 
